@@ -85,7 +85,7 @@ A compact, reliable, and versatile **USB to UART** converter designed with the *
 
 > You are free to use, modify, reproduce, and distribute this hardware **for non-commercial purposes only**, provided that you give **proper credit** and include a copy of the license.
 
-Full terms in [`LICENSE.txt`](./LICENSE.txt)
+Full terms in [`LICENSE.txt`](./Licence.txt)
 
 ---
 
