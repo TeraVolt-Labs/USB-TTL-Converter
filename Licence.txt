@@ -1,0 +1,13 @@
+Copyright (C) [Year] [Your Name / Organization]
+
+You may use, modify, reproduce, and distribute this hardware design and associated materials, provided that:
+
+1. You retain this license and attribution in all copies and derivative works.
+2. You provide proper credit to the original author.
+3. You do not use this design or derivatives for commercial purposes, including selling products, offering paid services, or incorporating the design in commercial products.
+4. You include a copy of this license with any redistribution.
+
+This license is a modified form of the CERN Open Hardware License v2 - Strongly Reciprocal, with an added non-commercial use clause.
+
+The original CERN-OHL-S v2 license text is available at:
+https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2
